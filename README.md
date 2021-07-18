@@ -1,4 +1,4 @@
-Project started based on this repository: https://github.com/vedovelli/miragejs-starter-kit
+Project started based on the repository, original author of the idea:  [https://github.com/vedovelli/miragejs-starter-kit](https://github.com/vedovelli/miragejs-starter-kit)
 
 # Mirage JS Starter Kit
 
@@ -15,7 +15,7 @@ Their documentation is straight to the point but it only helps you setting up a 
 ### 1. Having started a React or Vue.js project, copy all the files to the src folder:
 
 ```
-cd src && npx degit vedovelli/miragejs-starter-kit miragejs
+cd src && npx degit GabrielBritoAlmeida/miragejs-starter-kit-master
 ```
 
 [What is **degit**?](https://github.com/Rich-Harris/degit#readme)
