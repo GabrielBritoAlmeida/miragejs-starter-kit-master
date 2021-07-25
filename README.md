@@ -15,7 +15,7 @@ Their documentation is straight to the point but it only helps you setting up a 
 ### 1. Having started a React or Vue.js project, copy all the files to the src folder:
 
 ```
-cd src && npx degit GabrielBritoAlmeida/miragejs-starter-kit-master
+cd src && npx degit GabrielBritoAlmeida/miragejs-starter-kit-master miragejs
 ```
 
 [What is **degit**?](https://github.com/Rich-Harris/degit#readme)
