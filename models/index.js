@@ -2,7 +2,7 @@
  * Mirage JS guide on Models: https://miragejs.com/docs/data-layer/models
  */
 
-import { Model, hasMany, belongsTo } from 'miragejs';
+import { Model, hasMany, belongsTo } from 'miragejs'
 
 /*
  * Everytime you create a new resource you have
@@ -19,4 +19,4 @@ export default {
     user: belongsTo(),
   }),
   product: Model,
-};
+}
